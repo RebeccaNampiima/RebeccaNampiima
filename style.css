@@ -1,0 +1,44 @@
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+h4 {
+  text-align: right;
+}
+
+h2 {
+  text-align: center;
+}
+
+td, th {
+  border: 1px solid black;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.photo-block {
+  text-align: center;
+}
+
+.photo {
+  height: 100hpx;
+  width: 100px;
+}
+
+.form-field {
+  display: block;
+}
+
+.footer-text {
+  text-align: center;
+}
+    
+  
